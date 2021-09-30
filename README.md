@@ -9,6 +9,7 @@
 - BDI: los resultados del inventario de depresión de Beck (Beck Depression Inventory) obtenidos en cada evaluación. 
 
 Se trata de una modificación y traducción de la base BtheB del paquete HSAUR
+
 Brian S. Everitt and Torsten Hothorn (2017). HSAUR: A
   Handbook of Statistical Analyses Using R (1st Edition). R
   package version 1.3-9.
